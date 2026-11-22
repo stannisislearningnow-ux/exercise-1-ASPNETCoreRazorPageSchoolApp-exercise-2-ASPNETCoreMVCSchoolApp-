@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Test results
+**/TestResults/
+
+# Windows shortcuts
+*.lnk
