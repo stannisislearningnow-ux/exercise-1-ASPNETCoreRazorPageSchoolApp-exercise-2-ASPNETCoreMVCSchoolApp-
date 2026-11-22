@@ -1,0 +1,26 @@
+# Visual Studio temporary files and caches
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# NuGet packages (restored automatically)
+packages/
+
+# JetBrains Rider / ReSharper
+.idea/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Local logs and temporary files
+*.log
+*.tmp
